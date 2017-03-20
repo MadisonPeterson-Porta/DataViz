@@ -1,2 +1,2 @@
 # DataViz
-I'm a sophomore at Lehigh Univeristy, majoring in International Relations and minoring in Journalism. 
+I'm a sophomore at Lehigh University, majoring in International Relations and minoring in Journalism. 
